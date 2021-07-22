@@ -9,7 +9,7 @@ Based on these two projects:
 ## Instructions to compile and run
 
 In order to compile this project, you will need `g++`, `cmake`, `libusb-1.0-0-dev` and `libncurses5-dev`.
-
+yay -S ncurses5-compat-libs in arch
 ### Commands to compile
 
 * `cd build`
